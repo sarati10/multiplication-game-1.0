@@ -6,5 +6,5 @@ Peut être une mise à jour prochainement...
 ## Invoke-WebRequest -Uri "https://sourceforge.net/projects/pyscripter/files/latest/download" -OutFile "$env:USERPROFILE\Downloads\pyscripter_installer.exe"
  puis 
 ## Start-Process -FilePath "$env:USERPROFILE\Downloads\pyscripter_installer.exe" -Wait
- dans terminal sur votre pc. Ensuite, lancer avec pyscripter et executer.
+ dans terminal sur votre pc. Ensuite, lancer avec pyscripter et executer. Si vous ne pouvez pas faire la 2ème ligne, allez dans téléchargement et faites une installation normale
   Bon jeu!!!
